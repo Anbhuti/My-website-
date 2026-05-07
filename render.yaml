@@ -1,6 +1,0 @@
-services:
-  - type: web
-    runtime: static
-    name: Portfolio
-    buildCommand: echo "Static site ready"
-    staticPublishPath: ./
